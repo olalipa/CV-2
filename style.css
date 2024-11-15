@@ -32,7 +32,7 @@
 }
 
 .name {
-    background-image: linear-gradient(to right, white, cornflowerblue, white );
+    background: linear-gradient(to top, #FFFF00 50%, #fff 50%);
 }
 
 .photo {
