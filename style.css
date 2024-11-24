@@ -3,7 +3,7 @@ body {
 }
 
 .content {
-    width: 90%;
+    width: 1200px;
     display: flex;
     flex-direction: row;
     margin: 5%;
@@ -16,8 +16,6 @@ body {
 .left-panel {
     width: 43%;
 }
-
-
 
 .personal-data {
     background-color: white;
@@ -43,7 +41,6 @@ body {
     width: 200px;
     display: flex;
     justify-content: center;
-    margin-top: 40px;
     color: black;
 }
 
@@ -117,7 +114,6 @@ body {
 .experience {
     margin-bottom: 20px;
     margin-left: 15px;
-    margin-top: 30px;
     font-size: 20px;
     font-weight: bolder;
 }
@@ -181,6 +177,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 5px;
 }
 
 .contact-section {
@@ -225,3 +222,4 @@ body {
     margin-left: 15px;
     margin-bottom: 20px;
 }
+
